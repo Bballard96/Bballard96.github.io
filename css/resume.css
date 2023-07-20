@@ -121,3 +121,13 @@ a {
   color: #BD5D38; }
   a:hover, a:focus, a:active {
     color: #824027; }
+
+    .d-lg-block {
+      display: block;
+    }
+
+    @media (max-width: 991px) {
+      .d-lg-block {
+        display: block;
+      }
+    }
